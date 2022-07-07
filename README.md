@@ -1,1 +1,1 @@
-# malaria_detection
+# Malaria_Detection_Deep_Learning
