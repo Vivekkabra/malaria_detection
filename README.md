@@ -3,4 +3,5 @@ Using TransferLearning concept we have trained our data set which we took from k
 The optimizer used is Adam.
 We then developed a website using Flask.
 TensorFlow library was used for training the model.
-you can get the dataset https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria
+you can get the dataset from the link given below
+https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria
